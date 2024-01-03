@@ -1,4 +1,4 @@
-# Node Hello World to all of you
+# Node Hello World 
 
 Simple node.js app that servers "hello world"
 
